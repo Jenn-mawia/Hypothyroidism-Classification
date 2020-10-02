@@ -1,10 +1,8 @@
 # Hypothyroidism-Classification
 
-# Tea-production-exports-and-consumption-in-Kenya-Data-Analysis
-
 
 ## Contributors
-1. Jenipher Mawia
+Jenipher Mawia
 
 ## Description
 This is a brief analysis that was done on patient's data collected by Nairobi Hospital during a clinical camp to test for hypothyroidism. 
@@ -19,12 +17,8 @@ Muscle weakness etc.
 
 The main aim of this project was to build a classification model which can determine whether or not the patient's symptoms indicate that the patient has hypothyroid
 
-## Data Anaysis
-Analysis was done on the consumption, exports and production of tea over the years 2012 - 2015. 
-
-
-
-The recommendations are that this analysis should be combined with similar trend analysis such as weather patterns, farming trends and economic conditions related to the agricultural industries in the same horizon for further analysis.
+## Findings/Results
+The best model on the decision trees built was the Gradient boosting classifier. However, the RBF kernel SVC model outperforms it and is considered to be the best model to use for the classification.
 
 
 ## Complete Setup / Installation Requirements
@@ -40,7 +34,7 @@ If you find a bug (or undesired results) do not hesitate to reach out
 
 
 ## License
-[MIT](https://github.com/dspt5-Team2-moringaschool/Tea-production-exports-and-consumption-in-Kenya-Data-Analysis/blob/master/LICENSE)
+[MIT](https://github.com/Jenn-mawia/Hypothyroidism-Classification/blob/main/LICENSE)
 
 
 Copyright (c) [2020] 
